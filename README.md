@@ -23,3 +23,10 @@ This project aims to visually demonstrate various sorting algorithms, including 
 
    ```bash
    https://github.com/ZyadElnaghy/SFML.git
+
+## Video Preview
+
+Watch a brief video showcasing Algorithm Visualizer :
+
+
+https://github.com/ZyadElnaghy/SFML/assets/113181791/9dea3093-5b58-489c-958d-c7586d28f283
